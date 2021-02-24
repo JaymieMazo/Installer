@@ -1,0 +1,15 @@
+
+SELECT POSearchView.PoNo,POSearchView.PoSeq,
+POSearchView.ItemId, POSearchView.Description,POSearchView.Qty,
+POSearchView.ConvertingCoefficient,POSearchView.QtyUnit,  
+POSearchView.CurrencyUnit,POSearchView.UnitPrice,POSearchView.Division, 
+POSearchView.Issueddate,POSearchView.Acknowledger,POSearchView.EtdDate, 
+POSearchView.EtaDate,POSearchView.FtryDate,POSearchView.TermOfPayment, 
+POSearchView.Remarks,POSearchView.SupplierId,POSearchView.SupplierName, 
+POSearchView.MakerName,POSearchView.ReceivedAllInvoices,POSearchView.Canceled, 
+PoHeaders.StaffName,ConfirmedPoNo.SendingDate, ConfirmedPoNo.ConfirmedDate 
+FROM POSearchView INNER JOIN Suppliers ON Suppliers.SupplierId=POSearchView.SupplierId  
+LEFT JOIN ConfirmedPoNo ON PoSearchView.PoNo = ConfirmedPoNo.PONO 
+INNER JOIN PoHeaders ON PoSearchView.PoNo = PoHeaders.PoNo 
+Where  PoSearchView.IssuedDate >= '2018/03/21' And PoSearchView.IssuedDate <= '2018/03/21'
+ORDER BY PoSearchView.PONo, PoSearchView.PoSeq, PoSearchView.CurrencyUnit

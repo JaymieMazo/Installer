@@ -1,0 +1,17 @@
+Line 21: Class OsenXPCntrl.OsenXPButton of control cmdView was not a loaded control class.
+Line 60: Class MSComCtl2.DTPicker of control dtpFrom was not a loaded control class.
+Line 81: Class MSComCtl2.DTPicker of control dtpTo was not a loaded control class.
+Line 102: Class OsenXPCntrl.OsenXPButton of control cmdPrint was not a loaded control class.
+Line 141: Class OsenXPCntrl.OsenXPButton of control cmdClose was not a loaded control class.
+Line 180: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control hflxInvRecord was not a loaded control class.
+Line 214: Class MSForms.Label of control Label3 was not a loaded control class.
+Line 227: Class MSForms.ComboBox of control cboDivision was not a loaded control class.
+Line 247: Class MSForms.Label of control Label8 was not a loaded control class.
+Line 264: Class MSForms.Label of control lblDescription was not a loaded control class.
+Line 283: Class MSForms.Label of control Label7 was not a loaded control class.
+Line 302: Class MSForms.Label of control Label6 was not a loaded control class.
+Line 319: Class MSForms.TextBox of control txtItemCode was not a loaded control class.
+Line 337: Class MSForms.Label of control Label4 was not a loaded control class.
+Line 354: Class MSForms.Label of control Label5 was not a loaded control class.
+Line 371: Class MSForms.Label of control Label2 was not a loaded control class.
+Line 384: Class MSForms.Label of control Label1 was not a loaded control class.

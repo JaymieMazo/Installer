@@ -1,0 +1,40 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Fri Dec 06 11:52:21 2013           **
+;**                                                                **
+;** MakeCAB Version: (32) 1.00.603.4 (06/25/98)                     **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+[cabinet list]
+1,1,PrintMenu.CAB
+[file list]
+1,0,Setup.Lst,4408
+1,0,setup.exe,139776
+1,1,msvbvm60.dll,1386496
+1,1,OLEAUT32.DLL,598288
+1,1,OLEPRO32.DLL,164112
+1,1,ASYCFILT.DLL,147728
+1,1,STDOLE2.TLB,17920
+1,1,COMCAT.DLL,22288
+1,1,MSDBRPTR.DLL,299008
+1,1,msstdfmt.dll,118784
+1,1,MSDERUN.DLL,136192
+1,1,msado25.tlb,81920
+1,1,MSBIND.DLL,77824
+1,1,EXCEL9.OLB,638976
+1,1,FM20.DLL,1139472
+1,1,MSCOMCT2.OCX,647872
+1,1,MSHFLXGD.OCX,438976
+1,1,MSCOMCTL.OCX,1081616
+1,1,OsenControls.ocx,933888
+1,1,MDAC_TYP.EXE,7856352
+1,1,SETUP1.EXE,249856
+1,1,VB6STKIT.DLL,101888
+1,1,ST6UNST.EXE,73216
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Fri Dec 06 11:52:21 2013           **
+;**                                                                **
+;*** END ************************************************************
