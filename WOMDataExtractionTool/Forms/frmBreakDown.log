@@ -1,0 +1,7 @@
+Line 133: Class MSForms.ComboBox of control cboCompany was not a loaded control class.
+Line 177: Class MSForms.CommandButton of control cmdExcel was not a loaded control class.
+Line 197: Class MSForms.CommandButton of control cmdSearch was not a loaded control class.
+Line 240: Class MSForms.ComboBox of control cboType was not a loaded control class.
+Line 319: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control flxSummaryDetail was not a loaded control class.
+Line 352: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control flxSummaryDetail_forkLift_Bat was not a loaded control class.
+Line 385: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control flxSummaryDetail_forkLift_Die was not a loaded control class.

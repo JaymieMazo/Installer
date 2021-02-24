@@ -1,0 +1,7 @@
+Line 42: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control flxAccomlishment was not a loaded control class.
+Line 85: Class MSComctlLib.ProgressBar of control ProgressBar1 was not a loaded control class.
+Line 97: Class MSForms.CommandButton of control cmdExport was not a loaded control class.
+Line 117: Class MSForms.CommandButton of control cmdGetData was not a loaded control class.
+Line 159: Class MSForms.Label of control lblPleaseWait was not a loaded control class.
+Line 218: Class MSForms.ComboBox of control cboType was not a loaded control class.
+Line 240: Class MSForms.ComboBox of control cboCompany was not a loaded control class.

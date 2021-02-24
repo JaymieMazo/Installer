@@ -1,0 +1,14 @@
+M_Tool = 9, 12, 750, 634, 
+frmSplash = 48, 48, 642, 624, C, 99, 263, 701, 847, C
+cls_details = 53, 126, 664, 705, 
+frmWorkorderAndCostingHistory = 0, 0, 679, 601, , -8, 32, 754, 652, C
+frmMachineControlStatus = 25, 304, 655, 774, , 66, 87, 704, 565, C
+FM_Main = 136, 136, 827, 541, C, 88, 88, 621, 583, C
+frmStatus = 158, 158, 849, 563, , 114, 114, 639, 603, C
+frmBreakDown = 18, 14, 732, 560, , 114, 114, 639, 603, C
+frmEmployeeMasterList = 26, 26, 558, 515, C, 202, 202, 734, 691, C
+frmMachineItemMasterList = 224, 224, 756, 713, C, 198, 198, 738, 695, C
+frmMaintenance = 54, 54, 705, 548, C, 29, 29, 681, 523, C
+cls_ExcelTools = 114, 114, 624, 618, 
+frmAccomplishment = 220, 220, 761, 688, Z, 172, 172, 721, 648, C
+frmMonitoring = 132, 132, 779, 754, C, 154, 154, 801, 776, C

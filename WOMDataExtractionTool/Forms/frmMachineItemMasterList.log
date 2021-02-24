@@ -1,0 +1,10 @@
+Line 18: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control flxMachineItem was not a loaded control class.
+Line 61: Class MSForms.ComboBox of control cboSection was not a loaded control class.
+Line 83: Class MSForms.ComboBox of control cboType was not a loaded control class.
+Line 105: Class MSForms.ComboBox of control cboDepartment was not a loaded control class.
+Line 127: Class MSForms.ComboBox of control cboStatus was not a loaded control class.
+Line 149: Class MSForms.ComboBox of control cboCompany was not a loaded control class.
+Line 171: Class MSForms.TextBox of control txtMachineCtrlNo was not a loaded control class.
+Line 273: Class MSForms.CommandButton of control cmdClear was not a loaded control class.
+Line 293: Class MSForms.CommandButton of control cmdExcel was not a loaded control class.
+Line 357: Class MSForms.CommandButton of control cmdSearch was not a loaded control class.

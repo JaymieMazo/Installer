@@ -1,0 +1,8 @@
+Line 84: Class MSHierarchicalFlexGridLib.MSHFlexGrid of control flxMonitoring was not a loaded control class.
+Line 157: Class MSForms.TextBox of control txtPRSNo was not a loaded control class.
+Line 215: Class MSForms.TextBox of control txtInCharge was not a loaded control class.
+Line 229: Class MSForms.TextBox of control txtMachineName was not a loaded control class.
+Line 243: Class MSForms.TextBox of control txtMachineNo was not a loaded control class.
+Line 433: Class MSForms.CommandButton of control cmdSearch was not a loaded control class.
+Line 454: Class MSForms.CommandButton of control cmdClear was not a loaded control class.
+Line 475: Class MSForms.CommandButton of control cmdExcel was not a loaded control class.
